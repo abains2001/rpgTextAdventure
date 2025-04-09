@@ -1,9 +1,15 @@
 Implementation:
 
 • Character Creation
-    - Disciplines:
+    - Starting Discipline:
         - Mage
         - Swordsman
         - Archer
-    - 
+    - Stat System:
+        - Strength
+        - Dexterity
+        - Vitality
+        - Magic
+        - Luck
+        - Charisma
     - 
