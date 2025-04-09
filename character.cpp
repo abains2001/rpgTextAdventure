@@ -1,0 +1,1 @@
+//will contain data structure to contain all character info, stats, bonuses, etc
